@@ -8,14 +8,20 @@ DemandCast is an end-to-end machine learning project that forecasts retail inven
 
 ## Objective
 
-Build an accurate machine learning model to forecast product demand.
+Predict Future Demand Accurately: Develop robust machine learning models that can forecast product demand across multiple categories, regions, and market conditions, helping businesses minimize stockouts and overstock situations.
 
-Create an interactive web application for real-time predictions.
+Data-Driven Decision Making: Leverage historical sales, pricing, promotions, seasonality, weather, and competitor data to generate actionable insights for inventory planning.
 
-Deploy the system online for easy access by stakeholders.
+Interactive Web Experience: Build a user-friendly Flask web application where stakeholders can input real-time product and market data and receive instant demand forecasts.
+
+Scalable Deployment: Deploy the application online using Render, ensuring seamless access for business users and integration with version control for continuous updates.
+
+Optimize Business Operations: Enable smarter supply chain decisions by combining predictive analytics with an interactive interface, reducing operational costs and improving customer satisfaction.
 
 ## Dataset Used
-source - 
+
+source - https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting
+
 The dataset includes the following features:
 
 Product Category (Electronics, Clothing, Groceries, Toys, Furniture)
