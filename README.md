@@ -1,6 +1,6 @@
 # DemandCast – ML-Powered Inventory Demand Prediction
 
-Live Demo: https://your-app-name.onrender.com
+Live Demo: https://inventory-demand-forecasting-using.onrender.com
 
 ## Project Overview
 
@@ -73,6 +73,10 @@ Version Control: Git and GitHub – managed code versions and project repository
 # Data Analysis and Insights
 
 During the project, we performed exploratory data analysis (EDA) to understand trends, patterns, and relationships in the dataset. Visualizations included:
+
+## Distribution of Inventory Level with its Boxplot
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/797df69a-8353-4182-8baf-dcfdcaec79df" />
+
 
 ## Monthly Demand Trend over Year
 <img width="869" height="477" alt="image" src="https://github.com/user-attachments/assets/4c2882a8-f5fd-470a-a2a9-c423408a63d5" />
