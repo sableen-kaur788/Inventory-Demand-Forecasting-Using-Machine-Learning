@@ -54,30 +54,61 @@ The dataset was cleaned and preprocessed before model training.
 
 ## Tools and Technologies
 
-Programming Language: Python
+Programming Language: Python – for data analysis, model training, and building the web application.
 
-Web Framework: Flask
+Web Framework: Flask – developed an interactive web interface for real-time demand predictions.
 
-Machine Learning: Scikit-learn (Linear regression, Polynomial Regression, Ridge Regression, Decision Tree, Random Forest, Support Vector regressor)
+Machine Learning: Scikit-learn – implemented Linear Regression, Polynomial Regression, Ridge Regression, Decision Tree, Random Forest, and Support Vector Regressor to forecast product demand.
 
-Data Handling: Pandas, NumPy
+Data Handling: Pandas and NumPy – used for data cleaning, preprocessing, feature engineering, and manipulation.
 
-Model Serialization: Joblib
+Model Serialization: Joblib – saved trained models for inference in the Flask application.
 
-Frontend: HTML
+Frontend: HTML and CSS – designed a clean, user-friendly interface for inputting product and market data.
 
-Deployment: Render
+Deployment: Render – deployed the Flask application online for live predictions.
 
-Version Control: Git, GitHub
+Version Control: Git and GitHub – managed code versions and project repository.
 
-## Techniques Implemented:
+# Data Analysis and Insights
 
-Data preprocessing: Cleaning, encoding, scaling
+During the project, we performed exploratory data analysis (EDA) to understand trends, patterns, and relationships in the dataset. Visualizations included:
 
-Feature engineering: Polynomial interactions and categorical variable encoding
+## Monthly Demand Trend over Year
+<img width="869" height="477" alt="image" src="https://github.com/user-attachments/assets/4c2882a8-f5fd-470a-a2a9-c423408a63d5" />
 
-Model training and evaluation: RMSE, MAE, R²
+## Demand Distribution 
+<img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/fd6f7ed4-1f3f-4234-8201-aaa3966f33f1" />
 
-Web development: Flask app with interactive UI for input and real-time predictions
+## Promotion Impact Analysis: Charts to see how promotions influence demand.
+<img width="623" height="554" alt="image" src="https://github.com/user-attachments/assets/b1b13902-9995-45a9-ac3b-6127911d98f8" />
 
-Deployment: Continuous integration and live hosting on Render
+## Effect of Weather 
+<img width="778" height="554" alt="image" src="https://github.com/user-attachments/assets/034c6498-57cf-46c8-83f5-511ad6abe6e8" />
+
+## Correlation Between Numerical Columns(Heatmap) 
+<img width="700" height="590" alt="image" src="https://github.com/user-attachments/assets/4497f163-9cfa-41b9-ad81-3a3355f5f1cd" />
+
+These visualizations helped in identifying key factors affecting demand, informing feature engineering, and improving model accuracy.
+
+## Model Details / Performance Metrics
+<img width="1790" height="490" alt="image" src="https://github.com/user-attachments/assets/b8a092f2-b78f-4544-b48b-8ef7131f58f4" />
+
+<img width="1790" height="490" alt="image" src="https://github.com/user-attachments/assets/dab1b0e2-f6dc-45e6-a979-ac3fdfcaf76f" />
+
+<img width="1790" height="490" alt="image" src="https://github.com/user-attachments/assets/0c7cca0c-7d0d-4feb-8aae-1621b45f1c7d" />
+
+<img width="1789" height="490" alt="image" src="https://github.com/user-attachments/assets/628d04ea-3b33-4254-a4f0-ba8d438abadb" />
+
+<img width="1790" height="490" alt="image" src="https://github.com/user-attachments/assets/df680e56-791e-4628-8f65-7e87b94f9114" />
+
+<img width="1789" height="490" alt="image" src="https://github.com/user-attachments/assets/8745060d-31a5-43c7-981e-fc240d15ba30" />
+
+## Model's Comparison
+<img width="1006" height="553" alt="image" src="https://github.com/user-attachments/assets/39294b92-33c6-4e22-8656-54ba2384080b" />
+
+
+
+
+
+
