@@ -64,7 +64,7 @@ Data Handling: Pandas and NumPy – used for data cleaning, preprocessing, featu
 
 Model Serialization: Joblib – saved trained models for inference in the Flask application.
 
-Frontend: HTML and CSS – designed a clean, user-friendly interface for inputting product and market data.
+Frontend: HTML – designed a clean, user-friendly interface for inputting product and market data.
 
 Deployment: Render – deployed the Flask application online for live predictions.
 
@@ -110,6 +110,10 @@ These visualizations helped in identifying key factors affecting demand, informi
 
 ## Model's Comparison
 <img width="1006" height="553" alt="image" src="https://github.com/user-attachments/assets/39294b92-33c6-4e22-8656-54ba2384080b" />
+
+## Conclusion 
+
+DemandCast demonstrates an end-to-end solution for inventory demand forecasting, integrating machine learning models with an interactive web application. The project provides actionable insights to support data-driven inventory management and strategic decision-making. Future improvements could include additional feature integration, enhanced model tuning, and real-time data pipelines to further increase prediction accuracy and business value.
 
 
 
